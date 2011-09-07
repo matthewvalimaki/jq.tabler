@@ -1,3 +1,9 @@
+/**
+ * jq.tabler
+ * Version: 1.0
+ * License: GNU GPL v3, see LICENSE file for details
+ * Homepage: https://github.com/teemuvalimaki/jq.tabler
+ */
 (function($){
 	$.fn.tabler = function(options) {
 		var parent = this;
