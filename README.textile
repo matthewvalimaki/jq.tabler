@@ -2,17 +2,20 @@ h1. Description of jQ.tabler - HTML table extension for jQuery
 
 https://github.com/teemuvalimaki/jq.tabler
 
-*Version 1*
+*Version 1.0*
 
 h2. License
+
 This jQuery extension is licensed under GNU GPL v3. See LICENSE file for details.
 
 h2. Requirements
 * jQuery
 
 h2. Overview
+
 The purpose of this jQuery extension is to enable HTML table sorting via manual
 drag and drop.
 
 h2. Features
+
 * Save ordering via AJAX
